@@ -2,8 +2,8 @@
 #### Front-end Developers
 
 Innovative Front End Developer with 3 years experience building and maintaining responsive websites in the recruiting industry.Proficient in HTML,CSS ,JavaScript ,react. Passionate about usability and possess working knowledge of Adobe Photoshop.,
-
-![Front-end Developers](https://media-exp1.licdn.com/dms/image/C4D16AQFiOQAt2i8S0g/profile-displaybackgroundimage-shrink_350_1400/0/1653747541068?e=1675296000&v=beta&t=Em6uBS9HMoFJLzZTLS36FQfQuUKudAjTrmuYoxXJr5w)
+<!-- 
+![Front-end Developers](https://media-exp1.licdn.com/dms/image/C4D16AQFiOQAt2i8S0g/profile-displaybackgroundimage-shrink_350_1400/0/1653747541068?e=1675296000&v=beta&t=Em6uBS9HMoFJLzZTLS36FQfQuUKudAjTrmuYoxXJr5w) -->
 
 Skills: html5 /css/ sass/ bootstrap/ tailwind/ javascript/ React 
 
