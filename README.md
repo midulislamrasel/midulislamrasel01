@@ -13,8 +13,10 @@ Skills: html5 /css/ sass/ bootstrap/ tailwind/ javascript/ React
 
 
 
-<h3 align="left">Connect with me: midulislam842@gmail.com</h3>
-                              <p>01533330106</p>
+<h3 align="left">Connect with me gmail:> midulislam842@gmail.com</h3>
+<h3 align="left">Connect with me phone:> 01533330106</h3>
+
+
 <p align="left">
 </p>
 
